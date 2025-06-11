@@ -1,4 +1,8 @@
-## Hi there 👋
+> 🎨 **Ars longa, vita brevis**
+>
+> Vejo o código como mais do que lógica; é uma forma de arte.  
+> É como transformo o abstrato em algo concreto e duradouro  
+> uma pequena aposta contra a transitoriedade de tudo.
 
 <!--
 **mateuscamargo/mateuscamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
